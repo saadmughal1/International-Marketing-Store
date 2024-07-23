@@ -1,0 +1,22 @@
+[11-Feb-2024 13:41:30 America/New_York] PHP Warning:  unlink(../../assets/documents/screenshot_65c3b2bef1e66.png): No such file or directory in /home/umaihuox/imspak.com/admin/handlers/delete-slip.php on line 16
+[11-Feb-2024 13:41:32 America/New_York] PHP Warning:  unlink(../../assets/documents/screenshot_65c3b65c2f991.png): No such file or directory in /home/umaihuox/imspak.com/admin/handlers/delete-slip.php on line 16
+[13-Feb-2024 14:23:06 America/New_York] PHP Warning:  Undefined array key "member_id" in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 13
+[13-Feb-2024 14:23:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Member::getMemberById() in /home/umaihuox/imspak.com/admin/handlers/change-password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 15
+[13-Feb-2024 14:23:12 America/New_York] PHP Warning:  Undefined array key "member_id" in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 13
+[13-Feb-2024 14:23:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method Member::getMemberById() in /home/umaihuox/imspak.com/admin/handlers/change-password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 15
+[13-Feb-2024 14:31:12 America/New_York] PHP Warning:  Undefined variable $member in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 15
+[13-Feb-2024 14:31:12 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getMemberById() on null in /home/umaihuox/imspak.com/admin/handlers/change-password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 15
+[13-Feb-2024 14:39:02 America/New_York] PHP Warning:  Undefined variable $member in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 15
+[13-Feb-2024 14:39:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function getAdminById() on null in /home/umaihuox/imspak.com/admin/handlers/change-password.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/umaihuox/imspak.com/admin/handlers/change-password.php on line 15
